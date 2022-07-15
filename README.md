@@ -2,7 +2,7 @@
 
 ## Project structure
  - data
-    * buildings.json - geojson, raw OSM data with 2d polygons (use Git LFS to download)
+    * buildings.json - geojson, raw OSM data with 2d polygons
     * reestr.csv - information about buildings
     * gecoded_data.csv - info with coordinates
     * result.json - geojson, OSM data joined with info
